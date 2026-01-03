@@ -20,21 +20,26 @@
 
 <h3>👋 welcome</h3>
 <p>
-  this account just went live.<br/>
-  the intent didn’t.
+  this account just went live, but the decision behind it didn’t happen overnight.
 </p>
 
 <p>
-  things will land here gradually.<br/>
-  built with patience, not pressure.
+  this is a place to build slowly, openly, and honestly.  
+  no rush to impress. no pressure to perform.  
+  just showing up and putting the work somewhere visible.
 </p>
 
 <h3>⚡ approach</h3>
-<ul>
-  <li>build first, understand deeply</li>
-  <li>simple over clever</li>
-  <li>consistency over motivation</li>
-</ul>
+<p>
+  the goal isn’t to chase everything at once.  
+  it’s to understand things properly, one layer at a time.
+</p>
+
+<p>
+  building comes first. clarity follows.  
+  simple solutions are preferred. clever ones can wait.  
+  consistency matters more than motivation ever will.
+</p>
 
 <h3>🛠️ tools</h3>
 <p>
@@ -44,25 +49,35 @@
   <img src="https://img.shields.io/badge/git-111?style=flat-square&logo=git"/>
 </p>
 
+<p>
+  tools change. fundamentals stay.  
+  these are just what’s being used right now.
+</p>
+
 <h3>📦 what to expect</h3>
 <p>
-  early projects.<br/>
-  learning repos.<br/>
-  experiments that slowly turn solid.
+  early projects. practice repos. ideas that start rough and slowly get better.
 </p>
 
 <p>
-  no filler.<br/>
-  no noise.<br/>
-  just progress.
+  not everything here will be polished.  
+  but everything here will be intentional.
+</p>
+
+<p>
+  no filler. no fake productivity.  
+  just progress, documented.
 </p>
 
 <h3>🚀 direction</h3>
-<ul>
-  <li>strengthen fundamentals</li>
-  <li>ship small, ship often</li>
-  <li>get better every week</li>
-</ul>
+<p>
+  the focus is on building strong foundations, shipping small things often, and getting a little better every week.
+</p>
+
+<p>
+  nothing dramatic. nothing rushed.  
+  just steady forward movement.
+</p>
 
 <hr/>
 
